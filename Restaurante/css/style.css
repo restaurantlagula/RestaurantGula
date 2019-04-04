@@ -1,0 +1,99 @@
+.video{
+    margin-top: 53px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 70%;
+    box-shadow: inset 0px 0px 103px 0px rgba(0,0,0,1);
+    background-color: black;
+    }
+    video{
+        opacity: .5;
+    }
+.bg1{
+	background-color: #cc0000;
+}
+
+
+.navbar-brand {
+    font-size: 24px;
+}
+
+.navbar-container {
+    padding: 20px 0 3;
+}
+
+.navbar.navbar-fixed-top.fixed-theme {
+    background-color: #222;
+    border-color: #080808;
+    box-shadow: 0 0 5px rgba(0,0,0,.8);
+    margin: 0;
+}
+
+.navbar-brand.fixed-theme {
+    font-size: 18px;
+}
+.navbar-fixed-top {
+    top: 0;
+    margin: 0;
+    border-width: 0 0 1px;
+}
+
+.navbar-brand.fixed-theme,
+.navbar-container.fixed-theme,
+.navbar.navbar-fixed-top.fixed-theme,
+.navbar-brand,
+.navbar-container{
+    transition: 0.8s;
+    -webkit-transition:  0.8s;
+}
+#brand{
+    color:white;
+}
+.navbar-nav a{
+    color:white;
+}
+.text {
+    padding-top: 280px;
+    padding-left: 80px;
+    position: absolute;
+    opacity: 1;
+ }
+ .text h1{
+    color: white;
+ }
+ 
+ h1{
+    color: white;
+    font-size: 50px;
+    border-color: white;
+
+}
+ h2{
+    font-size: 90px;
+    color: white;
+ }
+ .llevar{
+
+        padding-top: 300px;
+    padding-left: 70%;
+    position: absolute;
+ }
+ .togo{
+    background-color: black;
+ }
+ .guis{
+    font-size: 48px;
+    color: white;
+ }
+ .map{
+    background-color: black;
+
+ }
+ .beef{
+   margin-top: 3%;
+    text-align: right;
+    position: absolute;
+ }
+ 
